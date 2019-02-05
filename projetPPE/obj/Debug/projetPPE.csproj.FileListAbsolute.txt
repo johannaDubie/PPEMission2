@@ -1,0 +1,11 @@
+C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe.config
+C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.pdb
+C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\MySql.Data.dll
+C:\Users\jonan\source\repos\projetPPE\projetPPE\obj\Debug\projetPPE.Properties.Resources.resources
+C:\Users\jonan\source\repos\projetPPE\projetPPE\obj\Debug\projetPPE.csproj.GenerateResource.Cache
+C:\Users\jonan\source\repos\projetPPE\projetPPE\obj\Debug\projetPPE.csproj.CoreCompileInputs.cache
+C:\Users\jonan\source\repos\projetPPE\projetPPE\obj\Debug\projetPPE.exe
+C:\Users\jonan\source\repos\projetPPE\projetPPE\obj\Debug\projetPPE.pdb
+C:\Users\jonan\source\repos\projetPPE\projetPPE\obj\Debug\projetPPE.Form1.resources
+C:\Users\jonan\source\repos\projetPPE\projetPPE\obj\Debug\projetPPE.csprojResolveAssemblyReference.cache

@@ -1,0 +1,107 @@
+﻿Installation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe.
+Validation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe.
+Suppression du fichier InstallState, car aucun programme d'installation n'est présent.
+Installation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Installation du service MonService en cours...
+Le service MonService a été installé avec succès.
+Création d'une source EventLog MonService dans le journal Application...
+Validation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Installation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Installation du service MonService en cours...
+Création d'une source EventLog MonService dans le journal Application...
+Restauration de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Restauration de l'état précédent du journal des événements pour la source MonService.
+Installation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Installation du service MonService en cours...
+Création d'une source EventLog MonService dans le journal Application...
+Restauration de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Restauration de l'état précédent du journal des événements pour la source MonService.
+Installation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Installation du service MonService en cours...
+Création d'une source EventLog MonService dans le journal Application...
+Restauration de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Restauration de l'état précédent du journal des événements pour la source MonService.
+Installation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Installation du service MonService en cours...
+Création d'une source EventLog MonService dans le journal Application...
+Restauration de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Restauration de l'état précédent du journal des événements pour la source MonService.
+Désinstallation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Suppression de la source EventLog MonService.
+Le service MonService est en cours de suppression du système...
+Le service MonService a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Installation du service MonService en cours...
+Le service MonService a été installé avec succès.
+Création d'une source EventLog MonService dans le journal Application...
+Validation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Désinstallation de l'assembly 'C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.InstallLog
+   assemblypath = C:\Users\jonan\source\repos\projetPPE\projetPPE\bin\Debug\projetPPE.exe
+Suppression de la source EventLog MonService.
+Le service MonService est en cours de suppression du système...
+Le service MonService a été retiré avec succès du système.
